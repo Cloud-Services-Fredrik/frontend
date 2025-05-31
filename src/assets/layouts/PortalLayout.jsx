@@ -14,7 +14,7 @@ const PortalLayout = () => {
                     Events
                 </div>
                 <div>
-                    <img src="./src/assets/images/Button Icon.png" />
+                    <img src="../images/Button Icon.png" />
                 </div>
             </header>
             <main>
@@ -28,7 +28,7 @@ const PortalLayout = () => {
                     <div>Contact</div>
                 </div>
                 <div>
-                    <img src="./src/assets/images/Social Media.png" />
+                    <img src="../images/Social Media.png" />
                 </div>
             </footer>
         </div>
