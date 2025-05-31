@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fredr\\Desktop\\Molntj\u00E4nster\\Frontend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fredr\\Desktop\\Molntj\u00E4nster\\Frontend\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fredr\\Desktop\\Molntj\u00E4nster\\Frontend\\src\\assets\\pages\\EventBooking.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\pages\\EventBooking.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -17,21 +21,34 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EventBooking.jsx",
               "DocumentMoniker": "C:\\Users\\fredr\\Desktop\\Molntj\u00E4nster\\Frontend\\src\\assets\\pages\\EventBooking.jsx",
               "RelativeDocumentMoniker": "src\\assets\\pages\\EventBooking.jsx",
               "ToolTip": "C:\\Users\\fredr\\Desktop\\Molntj\u00E4nster\\Frontend\\src\\assets\\pages\\EventBooking.jsx",
               "RelativeToolTip": "src\\assets\\pages\\EventBooking.jsx",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAACQAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-05-29T19:11:01.85Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\fredr\\Desktop\\Molntj\u00E4nster\\Frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\fredr\\Desktop\\Molntj\u00E4nster\\Frontend\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T19:20:27.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

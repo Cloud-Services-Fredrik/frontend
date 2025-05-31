@@ -5,7 +5,8 @@
     "\\src",
     "\\src\\assets",
     "\\src\\assets\\components",
-    "\\src\\assets\\layouts"
+    "\\src\\assets\\layouts",
+    "\\src\\assets\\pages"
   ],
   "SelectedNode": "\\src\\App.css",
   "PreviewInSolutionExplorer": false

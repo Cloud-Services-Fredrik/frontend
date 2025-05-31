@@ -1,9 +1,13 @@
 import React from 'react'
 import Nav from '../components/Nav'
+import EventList from '../components/EventList'
 
 const PortalLayout = () => {
     return (
         <div className="portal">
+            <link rel="preconnect" href="https://fonts.googleapis.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+            <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
             <Nav />
             <header>
                 <div>
@@ -14,11 +18,7 @@ const PortalLayout = () => {
                 </div>
             </header>
             <main>
-                <button className="event-card">
-                    <div className="event-time">Jun 13</div>
-                    <div className="event-name">Event name</div>
-                    <div className="event-place">my home</div>
-                </button>
+                <EventList />
             </main>
             <footer>
                 <div className="flex-row">
@@ -28,7 +28,7 @@ const PortalLayout = () => {
                     <div>Contact</div>
                 </div>
                 <div>
-                    <img src="../src/assets/images/Social Media.png"/>
+                    <img src="../src/assets/images/Social Media.png" />
                 </div>
             </footer>
         </div>
